@@ -2128,3 +2128,14 @@ Caused by: java.lang.RuntimeException: Cannot load class com.dooji.underlay.jade
 [14:27:35] [Server thread/INFO]: Priority overwritten for player RolandKisserBoi. Claiming: GRAVE / Robbing: INVENTORY
 [14:27:37] [Server thread/INFO]: Receiving client config
 [14:28:53] [Server thread/INFO]: Saving data for 1 chunks for dimension 'overworld' took 1 milliseconds
+[14:33:53] [Server thread/INFO]: Saving data for 4 chunks for dimension 'overworld' took 0 milliseconds
+[14:34:33] [Server thread/WARN]: [Fabrication] Failed to retrieve method GiveCommand.execute(class_2168, class_2290, Collection, int) (deobf name Lnet/minecraft/server/command/GiveCommand;execute(Lnet/minecraft/server/command/ServerCommandSource;Lnet/minecraft/command/argument/ItemStackArgument;Ljava/util/Collection;I)I) - force-disabling *.i_and_more
+[14:35:15] [Server thread/INFO]: RolandKisserBoi was slain by Zombie
+[14:36:26] [Server thread/INFO]: Made RolandKisserBoi a server operator
+[14:36:50] [Server thread/INFO]: RolandKisserBoi was slain by Zombie Villager
+[14:36:50] [Server thread/INFO]: No grave backup generated (empty grave)
+[14:37:56] [Server thread/INFO]: RolandKisserBoi was slain by Zombie
+[14:38:19] [Server thread/INFO]: RolandKisserBoi was slain by Zombie Villager
+[14:38:19] [Server thread/INFO]: No grave backup generated (empty grave)
+[14:38:28] [Server thread/INFO]: [RolandKisserBoi: Set the time to 1000]
+[14:38:53] [Server thread/INFO]: Saving data for 16 chunks for dimension 'overworld' took 0 milliseconds

@@ -29,15 +29,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-08-30 14:37:48 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2025-08-30 14:26:27 +0000"
     },
     "done": true
   },
+  "morevillagers:recipes/woodworking_table": {
+    "criteria": {
+      "has_leaves": "2025-08-30 14:34:36 +0000"
+    },
+    "done": true
+  },
   "charm:core/decoration": {
     "criteria": {
       "player_joined": "2025-08-30 14:26:27 +0000"
+    },
+    "done": true
+  },
+  "animal_feeding_trough:recipes/decorations/feeding_trough": {
+    "criteria": {
+      "has_wood_slab": "2025-08-30 14:34:36 +0000"
     },
     "done": true
   },
@@ -72,6 +90,12 @@
     },
     "done": true
   },
+  "morevillagers:recipes/gardening_table": {
+    "criteria": {
+      "has_flower": "2025-08-30 14:34:36 +0000"
+    },
+    "done": true
+  },
   "charm:core/world": {
     "criteria": {
       "player_joined": "2025-08-30 14:26:27 +0000"
@@ -90,6 +114,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-08-30 14:37:48 +0000"
+    },
+    "done": true
+  },
   "charm:core/smithing": {
     "criteria": {
       "player_joined": "2025-08-30 14:26:27 +0000"
@@ -102,9 +132,40 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-08-30 14:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-08-30 14:37:48 +0000"
+    },
+    "done": true
+  },
+  "adventuredungeons:adventuredungeons/root": {
+    "criteria": {
+      "killed_by_something": "2025-08-30 14:35:15 +0000"
+    },
+    "done": true
+  },
   "charm:core/automation": {
     "criteria": {
       "player_joined": "2025-08-30 14:26:27 +0000"
+    },
+    "done": true
+  },
+  "sawmill:recipes/sawmill": {
+    "criteria": {
+      "has_fences": "2025-08-30 14:34:36 +0000",
+      "has_slabs": "2025-08-30 14:34:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-08-30 14:34:36 +0000"
     },
     "done": true
   },
@@ -116,6 +177,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:forest": "2025-08-30 14:37:38 +0000",
       "minecraft:plains": "2025-08-30 14:26:28 +0000"
     },
     "done": false
