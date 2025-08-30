@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "d8ee004d73b733bd83268b79a976b26d"
+	name: "RolandKisserBoi#d8ee004d"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

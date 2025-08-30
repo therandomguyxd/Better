@@ -1,0 +1,17 @@
+{
+	id: "d8ee004d-73b7-33bd-8326-8b79a976b26d"
+	type: "player"
+	player_name: "RolandKisserBoi"
+	ranks: {
+		d8ee004d-73b7-33bd-8326-8b79a976b26d: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "RolandKisserBoi"
+		"ftbteams:description": ""
+		"ftbteams:color": "#F7FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

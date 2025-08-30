@@ -1,0 +1,136 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-08-30 14:26:27 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:overworld_structures": {
+    "criteria": {
+      "always": "2025-08-30 14:26:27 +0000"
+    },
+    "done": true
+  },
+  "charm:core/tools": {
+    "criteria": {
+      "player_joined": "2025-08-30 14:26:27 +0000"
+    },
+    "done": true
+  },
+  "betternether:root": {
+    "criteria": {
+      "welcome": "2025-08-30 14:26:28 +0000"
+    },
+    "done": true
+  },
+  "betterend:root": {
+    "criteria": {
+      "welcome": "2025-08-30 14:26:28 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-08-30 14:26:27 +0000"
+    },
+    "done": true
+  },
+  "charm:core/decoration": {
+    "criteria": {
+      "player_joined": "2025-08-30 14:26:27 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:root": {
+    "criteria": {
+      "always": "2025-08-30 14:26:27 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_all_structures": {
+    "criteria": {
+      "in_goliath_honey_fountain": "2025-08-30 14:26:28 +0000",
+      "in_mite_fortress": "2025-08-30 14:26:28 +0000"
+    },
+    "done": false
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2025-08-30 14:26:27 +0000"
+    },
+    "done": true
+  },
+  "uf_core:._init_/player_join": {
+    "criteria": {
+      "requirement": "2025-08-30 14:26:27 +0000"
+    },
+    "done": true
+  },
+  "charm:core/mobs": {
+    "criteria": {
+      "player_joined": "2025-08-30 14:26:27 +0000"
+    },
+    "done": true
+  },
+  "charm:core/world": {
+    "criteria": {
+      "player_joined": "2025-08-30 14:26:27 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-08-30 14:26:27 +0000"
+    },
+    "done": true
+  },
+  "charm:core/enchantments": {
+    "criteria": {
+      "player_joined": "2025-08-30 14:26:27 +0000"
+    },
+    "done": true
+  },
+  "charm:core/smithing": {
+    "criteria": {
+      "player_joined": "2025-08-30 14:26:27 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:root": {
+    "criteria": {
+      "instant_granted": "2025-08-30 14:26:27 +0000"
+    },
+    "done": true
+  },
+  "charm:core/automation": {
+    "criteria": {
+      "player_joined": "2025-08-30 14:26:27 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:wiki": {
+    "criteria": {
+      "instant_granted": "2025-08-30 14:26:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-08-30 14:26:28 +0000"
+    },
+    "done": false
+  },
+  "charm:core/root": {
+    "criteria": {
+      "player_joined": "2025-08-30 14:26:27 +0000"
+    },
+    "done": true
+  },
+  "charm:core/tweaks": {
+    "criteria": {
+      "player_joined": "2025-08-30 14:26:27 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}

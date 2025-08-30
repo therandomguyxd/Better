@@ -2115,3 +2115,16 @@ Caused by: java.lang.RuntimeException: Cannot load class com.dooji.underlay.jade
     15.2 GB / 31.3 GB   (48%)
     [┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃╻╻╻╻╻╻╻╻╻╻╻╻╻╻╻╻╻╻╻╻╻╻╻╻╻╻╻╻╻╻╻]
 
+[14:26:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@37994683[id=d8ee004d-73b7-33bd-8326-8b79a976b26d,name=RolandKisserBoi,properties={}] lost connection: Timed out
+[14:26:26] [Server thread/INFO]: [STDOUT]: Lithium Cached BlockState Flags are disabled!
+[14:26:26] [Server thread/INFO]: RolandKisserBoi[/127.154.153.17:40523] logged in with entity id 378 at (9.5, 95.0, -7.5)
+[14:26:26] [Server thread/INFO]: Sending server config values to client
+[14:26:27] [Server thread/INFO]: RolandKisserBoi joined the game
+[14:26:27] [Server thread/INFO]: Updating all forceload tickets for d8ee004d-73b7-33bd-8326-8b79a976b26d
+[14:26:27] [Server thread/INFO]: [STDOUT]: No saved ChunkActivityMap found. Creating a new one!
+[14:26:27] [Server thread/INFO]: Saving data for 0 chunks for dimension 'overworld' took 1 milliseconds
+[14:26:27] [Server thread/WARN]: @ModifyConstant conflict. Skipping packetfixer.v1_20_5.fabric.mixins.json:v1_20_5_fabric.ClientboundLevelChunkPacketDataMixin from mod packetfixer->@ModifyConstant::packetfixer$newSize(I)I with priority 1000, already redirected by connectivity.mixins.json:ClientBoundLevelChunkPacketDataLimitMixin from mod connectivity->@ModifyConstant::modifyLimit(I)I with priority 1000
+[14:27:30] [Server thread/INFO]: Channel update: RolandKisserBoi -> default
+[14:27:35] [Server thread/INFO]: Priority overwritten for player RolandKisserBoi. Claiming: GRAVE / Robbing: INVENTORY
+[14:27:37] [Server thread/INFO]: Receiving client config
+[14:28:53] [Server thread/INFO]: Saving data for 1 chunks for dimension 'overworld' took 1 milliseconds
