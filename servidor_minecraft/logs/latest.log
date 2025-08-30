@@ -2249,3 +2249,11 @@ Caused by: java.lang.RuntimeException: Cannot load class com.dooji.underlay.jade
 [16:42:06] [Server thread/INFO]: Priority overwritten for player RolandKisserBoi. Claiming: GRAVE / Robbing: INVENTORY
 [16:42:08] [Server thread/INFO]: Receiving client config
 [16:42:29] [Server thread/INFO]: Saving data for 16 chunks for dimension 'overworld' took 1 milliseconds
+[16:47:29] [Server thread/INFO]: Saving data for 16 chunks for dimension 'overworld' took 1 milliseconds
+[16:48:56] [Server thread/WARN]: [Fabrication] Failed to retrieve method GiveCommand.execute(class_2168, class_2290, Collection, int) (deobf name Lnet/minecraft/server/command/GiveCommand;execute(Lnet/minecraft/server/command/ServerCommandSource;Lnet/minecraft/command/argument/ItemStackArgument;Ljava/util/Collection;I)I) - force-disabling *.i_and_more
+[16:49:47] [Server thread/INFO]: RolandKisserBoi has made the advancement [Getting an Upgrade]
+[16:52:29] [Server thread/INFO]: Saving data for 26 chunks for dimension 'overworld' took 0 milliseconds
+[16:52:33] [pool-10-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / abridged:bridge], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_bamboo], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mushroom], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_crimson], ResourceKey[minecraft:worldgen/structure / natures_spirit:village_wisteria], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_jungle], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_ocean]] from pos class_2338{x=11, y=73, z=-261}
+[16:54:30] [Server thread/INFO]: RolandKisserBoi lost connection: Timed out
+[16:54:30] [Server thread/INFO]: RolandKisserBoi left the game
+[16:54:30] [Server thread/INFO]: Updating all forceload tickets for d8ee004d-73b7-33bd-8326-8b79a976b26d
