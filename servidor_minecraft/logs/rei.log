@@ -1,0 +1,220 @@
+[17:44:59] [main/INFO] ========================================
+[17:44:59] [main/INFO] Minecraft: 1.21.5
+[17:44:59] [main/INFO] Side: server
+[17:44:59] [main/INFO] Development: false
+[17:44:59] [main/INFO] Version: 19.0.809
+[17:44:59] [main/INFO] Loader:
+[17:44:59] [main/INFO] - Fabric: 0.17.2
+[17:44:59] [main/INFO] - Fabric API: 0.128.1+1.21.5
+[17:44:59] [main/INFO] Dependencies:
+[17:44:59] [main/INFO] - Cloth Config: 18.0.145
+[17:44:59] [main/INFO] - Architectury: 16.1.4
+[17:44:59] [main/INFO] Mixin: 0.8.7
+[17:44:59] [main/INFO] OS: Linux 6.8.0-1030-azure (amd64)
+[17:44:59] [main/INFO] Java: 21.0.8 (Ubuntu)
+[17:44:59] [main/INFO] ========================================
+[17:44:59] [main/INFO] Mods:
+[17:44:59] [main/INFO] - advancednetherite: 2.3.0-1.21.5
+[17:44:59] [main/INFO] - almanac: 1.4.5
+[17:44:59] [main/INFO] - architectury: 16.1.4
+[17:44:59] [main/INFO] - armorhide: 1.1.3
+[17:44:59] [main/INFO] - balm: 21.5.21
+[17:44:59] [main/INFO] - betterthanmending: 2.2.3
+[17:44:59] [main/INFO] - biolith: 3.3.0
+[17:44:59] [main/INFO] - c2me: 0.3.3.0.0+1.21.5
+[17:44:59] [main/INFO] - c2me-base: 0.3.3.0.0+1.21.5
+[17:44:59] [main/INFO] - c2me-fixes-chunkio-threading-issues: 0.3.3.0.0+1.21.5
+[17:44:59] [main/INFO] - c2me-fixes-general-threading-issues: 0.3.3.0.0+1.21.5
+[17:44:59] [main/INFO] - c2me-fixes-worldgen-threading-issues: 0.3.3.0.0+1.21.5
+[17:44:59] [main/INFO] - c2me-fixes-worldgen-vanilla-bugs: 0.3.3.0.0+1.21.5
+[17:44:59] [main/INFO] - c2me-notickvd: 0.3.3.0.0+1.21.5
+[17:44:59] [main/INFO] - c2me-opts-allocs: 0.3.3.0.0+1.21.5
+[17:44:59] [main/INFO] - c2me-opts-chunkio: 0.3.3.0.0+1.21.5
+[17:44:59] [main/INFO] - c2me-opts-dfc: 0.3.3.0.0+1.21.5
+[17:44:59] [main/INFO] - c2me-opts-math: 0.3.3.0.0+1.21.5
+[17:44:59] [main/INFO] - c2me-opts-scheduling: 0.3.3.0.0+1.21.5
+[17:44:59] [main/INFO] - c2me-opts-worldgen-general: 0.3.3.0.0+1.21.5
+[17:44:59] [main/INFO] - c2me-opts-worldgen-vanilla: 0.3.3.0.0+1.21.5
+[17:44:59] [main/INFO] - c2me-rewrites-chunk-serializer: 0.3.3.0.0+1.21.5
+[17:44:59] [main/INFO] - c2me-rewrites-chunk-system: 0.3.3.0.0+1.21.5
+[17:44:59] [main/INFO] - c2me-rewrites-chunkio: 0.3.3.0.0+1.21.5
+[17:44:59] [main/INFO] - c2me-server-utils: 0.3.3.0.0+1.21.5
+[17:44:59] [main/INFO] - c2me-threading-lighting: 0.3.3.0.0+1.21.5
+[17:44:59] [main/INFO] - cardinal-components: 6.3.1
+[17:44:59] [main/INFO] - cardinal-components-base: 6.3.1
+[17:44:59] [main/INFO] - cardinal-components-block: 6.3.1
+[17:44:59] [main/INFO] - cardinal-components-chunk: 6.3.1
+[17:44:59] [main/INFO] - cardinal-components-entity: 6.3.1
+[17:44:59] [main/INFO] - cardinal-components-item: 6.3.1
+[17:44:59] [main/INFO] - cardinal-components-level: 6.3.1
+[17:44:59] [main/INFO] - cardinal-components-scoreboard: 6.3.1
+[17:44:59] [main/INFO] - cardinal-components-world: 6.3.1
+[17:44:59] [main/INFO] - carryon: 2.4.0
+[17:44:59] [main/INFO] - chunky: 1.4.36
+[17:44:59] [main/INFO] - clienthings: 2.4.0
+[17:44:59] [main/INFO] - cloth-basic-math: 0.6.1
+[17:44:59] [main/INFO] - cloth-config: 18.0.145
+[17:44:59] [main/INFO] - cloth-config: 18.0.145
+[17:44:59] [main/INFO] - com_electronwill_night-config_core: 3.8.1
+[17:44:59] [main/INFO] - com_electronwill_night-config_toml: 3.8.1
+[17:44:59] [main/INFO] - com_ibm_async_asyncutil: 0.1.0
+[17:44:59] [main/INFO] - com_teamresourceful_bytecodecs: 1.1.3
+[17:44:59] [main/INFO] - com_teamresourceful_yabn: 1.0.3
+[17:44:59] [main/INFO] - com_twelvemonkeys_common_common-image: 3.12.0
+[17:44:59] [main/INFO] - com_twelvemonkeys_common_common-io: 3.12.0
+[17:44:59] [main/INFO] - com_twelvemonkeys_common_common-lang: 3.12.0
+[17:44:59] [main/INFO] - com_twelvemonkeys_imageio_imageio-core: 3.12.0
+[17:44:59] [main/INFO] - com_twelvemonkeys_imageio_imageio-metadata: 3.12.0
+[17:44:59] [main/INFO] - com_twelvemonkeys_imageio_imageio-webp: 3.12.0
+[17:44:59] [main/INFO] - com_velocitypowered_velocity-native: 3.4.0-SNAPSHOT
+[17:44:59] [main/INFO] - debugify: 1.21.5+1.0
+[17:44:59] [main/INFO] - dimensionviewer: 2.1.0
+[17:44:59] [main/INFO] - easyanvils: 21.5.1
+[17:44:59] [main/INFO] - easymagic: 21.5.0
+[17:44:59] [main/INFO] - easyshulkerboxes: 21.5.0
+[17:44:59] [main/INFO] - enchanter_fix: 1.6
+[17:44:59] [main/INFO] - endrem: 6.1.3
+[17:44:59] [main/INFO] - error_notifier: 1.0.11
+[17:44:59] [main/INFO] - fabric-api: 0.128.1+1.21.5
+[17:44:59] [main/INFO] - fabric-api: 0.128.1+1.21.5
+[17:44:59] [main/INFO] - fabric-api-base: 0.4.62+73a52b4b49
+[17:44:59] [main/INFO] - fabric-api-lookup-api-v1: 1.6.96+86c3a9f149
+[17:44:59] [main/INFO] - fabric-biome-api-v1: 16.0.7+2dd063df49
+[17:44:59] [main/INFO] - fabric-block-api-v1: 1.1.0+ed91556f49
+[17:44:59] [main/INFO] - fabric-block-view-api-v2: 1.0.26+aa6d566c49
+[17:44:59] [main/INFO] - fabric-command-api-v1: 1.2.70+f71b366f49
+[17:44:59] [main/INFO] - fabric-command-api-v2: 2.2.49+73a52b4b49
+[17:44:59] [main/INFO] - fabric-commands-v0: 0.2.87+df3654b349
+[17:44:59] [main/INFO] - fabric-content-registries-v0: 10.0.14+3e6c1f7d49
+[17:44:59] [main/INFO] - fabric-convention-tags-v1: 2.1.33+7f945d5b49
+[17:44:59] [main/INFO] - fabric-convention-tags-v2: 2.15.2+6d9989f349
+[17:44:59] [main/INFO] - fabric-crash-report-info-v1: 0.3.12+86c3a9f149
+[17:44:59] [main/INFO] - fabric-data-attachment-api-v1: 1.8.5+6d9989f349
+[17:44:59] [main/INFO] - fabric-data-generation-api-v1: 22.5.2+a0fab30c49
+[17:44:59] [main/INFO] - fabric-dimensions-v1: 4.0.17+3e6c1f7d49
+[17:44:59] [main/INFO] - fabric-entity-events-v1: 2.1.0+3ce7866349
+[17:44:59] [main/INFO] - fabric-events-interaction-v0: 4.0.15+64e3057949
+[17:44:59] [main/INFO] - fabric-game-rule-api-v1: 1.0.70+c327076a49
+[17:44:59] [main/INFO] - fabric-item-api-v1: 11.4.1+e46fd76a49
+[17:44:59] [main/INFO] - fabric-item-group-api-v1: 4.2.9+3459fc6149
+[17:44:59] [main/INFO] - fabric-language-kotlin: 1.13.4+kotlin.2.2.0
+[17:44:59] [main/INFO] - fabric-lifecycle-events-v1: 2.6.0+230071a049
+[17:44:59] [main/INFO] - fabric-loot-api-v2: 3.0.48+3f89f5a549
+[17:44:59] [main/INFO] - fabric-loot-api-v3: 1.0.36+86c3a9f149
+[17:44:59] [main/INFO] - fabric-message-api-v1: 6.1.0+fe971bba49
+[17:44:59] [main/INFO] - fabric-networking-api-v1: 4.5.0+775be32c49
+[17:44:59] [main/INFO] - fabric-object-builder-api-v1: 21.1.2+b8d6ba7049
+[17:44:59] [main/INFO] - fabric-particles-v1: 4.1.2+112e550e49
+[17:44:59] [main/INFO] - fabric-permissions-api-v0: 0.3.3
+[17:44:59] [main/INFO] - fabric-recipe-api-v1: 8.1.8+3235ab3249
+[17:44:59] [main/INFO] - fabric-registry-sync-v0: 6.1.22+cd64004349
+[17:44:59] [main/INFO] - fabric-rendering-data-attachment-v1: 0.3.64+73761d2e49
+[17:44:59] [main/INFO] - fabric-rendering-fluids-v1: 3.1.27+86c3a9f149
+[17:44:59] [main/INFO] - fabric-resource-conditions-api-v1: 5.0.21+73a52b4b49
+[17:44:59] [main/INFO] - fabric-resource-loader-v0: 3.1.7+847e5f5c49
+[17:44:59] [main/INFO] - fabric-screen-handler-api-v1: 1.3.129+c327076a49
+[17:44:59] [main/INFO] - fabric-tag-api-v1: 1.0.17+ecf51cdc49
+[17:44:59] [main/INFO] - fabric-transfer-api-v1: 5.4.24+7b20cbb049
+[17:44:59] [main/INFO] - fabric-transitive-access-wideners-v1: 6.3.17+f17a180c49
+[17:44:59] [main/INFO] - fabricloader: 0.17.2
+[17:44:59] [main/INFO] - ferritecore: 8.0.0
+[17:44:59] [main/INFO] - flowerymooblooms: 3.0.1
+[17:44:59] [main/INFO] - forgeconfigapiport: 21.5.1
+[17:44:59] [main/INFO] - friendsandfoes: 4.0.8
+[17:44:59] [main/INFO] - fsit: 2.7.10+mc1.21.2
+[17:44:59] [main/INFO] - geckolib: 5.1.0
+[17:44:59] [main/INFO] - improved_village_placement: 1.1.1
+[17:44:59] [main/INFO] - io_reactivex_rxjava3_rxjava: 3.1.8
+[17:44:59] [main/INFO] - iteminteractions: 21.5.0
+[17:44:59] [main/INFO] - iwie: 4.5.1
+[17:44:59] [main/INFO] - java: 21
+[17:44:59] [main/INFO] - krypton: 0.2.9
+[17:44:59] [main/INFO] - ksyxis: 1.3.4
+[17:44:59] [main/INFO] - kuma_api: 21.5.2
+[17:44:59] [main/INFO] - leashmod: 1.2.2+1.21.5
+[17:44:59] [main/INFO] - leavesbegone: 21.5.2
+[17:44:59] [main/INFO] - letmedespawn: 1.5.1
+[17:44:59] [main/INFO] - libjf: 3.18.5
+[17:44:59] [main/INFO] - libjf-base: 3.18.5
+[17:44:59] [main/INFO] - libjf-config-commands: 3.18.5
+[17:44:59] [main/INFO] - libjf-config-core-v2: 3.18.5
+[17:44:59] [main/INFO] - libjf-config-network-v0: 3.18.5
+[17:44:59] [main/INFO] - libjf-data-manipulation-v0: 3.18.5
+[17:44:59] [main/INFO] - libjf-data-v0: 3.18.5
+[17:44:59] [main/INFO] - libjf-mainhttp-v0: 3.18.5
+[17:44:59] [main/INFO] - libjf-resource-pack-entry-widgets-v0: 3.18.5
+[17:44:59] [main/INFO] - libjf-translate-v1: 3.18.5
+[17:44:59] [main/INFO] - libjf-unsafe-v0: 3.18.5
+[17:44:59] [main/INFO] - libjf-web-v1: 3.18.5
+[17:44:59] [main/INFO] - lithium: 0.16.3+mc1.21.5
+[17:44:59] [main/INFO] - lithostitched: 1.4.8
+[17:44:59] [main/INFO] - livingthings: 1.21.5-2.3.0
+[17:44:59] [main/INFO] - minechess: 1.1.1-mod
+[17:44:59] [main/INFO] - minecraft: 1.21.5
+[17:44:59] [main/INFO] - mixinextras: 0.5.0
+[17:44:59] [main/INFO] - mixinsquared: 0.2.0-beta.6
+[17:44:59] [main/INFO] - mr_happy_ghastssage: 2.3
+[17:44:59] [main/INFO] - mr_jakes_buildtools: 4.0.3
+[17:44:59] [main/INFO] - mr_vanilla_plusdatapack: 15.0
+[17:44:59] [main/INFO] - mutantmonsters: 21.5.1
+[17:44:59] [main/INFO] - naturescompass: 1.21.5-2.2.8-fabric
+[17:44:59] [main/INFO] - net_objecthunter_exp4j: 0.4.8
+[17:44:59] [main/INFO] - net_snackbag_shit_shit: 1.2.3
+[17:44:59] [main/INFO] - netherportalfix: 21.5.1
+[17:44:59] [main/INFO] - org_jctools_jctools-core: 4.0.5
+[17:44:59] [main/INFO] - org_jetbrains_kotlin_kotlin-reflect: 2.2.0
+[17:44:59] [main/INFO] - org_jetbrains_kotlin_kotlin-stdlib: 2.2.0
+[17:44:59] [main/INFO] - org_jetbrains_kotlin_kotlin-stdlib-jdk7: 2.2.0
+[17:44:59] [main/INFO] - org_jetbrains_kotlin_kotlin-stdlib-jdk8: 2.2.0
+[17:44:59] [main/INFO] - org_jetbrains_kotlinx_atomicfu-jvm: 0.28.0
+[17:44:59] [main/INFO] - org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm: 1.10.2
+[17:44:59] [main/INFO] - org_jetbrains_kotlinx_kotlinx-coroutines-jdk8: 1.10.2
+[17:44:59] [main/INFO] - org_jetbrains_kotlinx_kotlinx-datetime-jvm: 0.6.2
+[17:44:59] [main/INFO] - org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm: 0.7.0
+[17:44:59] [main/INFO] - org_jetbrains_kotlinx_kotlinx-io-core-jvm: 0.7.0
+[17:44:59] [main/INFO] - org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm: 1.8.1
+[17:44:59] [main/INFO] - org_jetbrains_kotlinx_kotlinx-serialization-core-jvm: 1.8.1
+[17:44:59] [main/INFO] - org_jetbrains_kotlinx_kotlinx-serialization-json-jvm: 1.8.1
+[17:44:59] [main/INFO] - org_quiltmc_parsers_gson: 0.2.1
+[17:44:59] [main/INFO] - org_quiltmc_parsers_json: 0.2.1
+[17:44:59] [main/INFO] - org_reactivestreams_reactive-streams: 1.0.4
+[17:44:59] [main/INFO] - org_yaml_snakeyaml: 2.3
+[17:44:59] [main/INFO] - packetfixer: 3.3.0
+[17:44:59] [main/INFO] - placeholder-api: 2.6.2+1.21.5
+[17:44:59] [main/INFO] - plushables: 2.0.7+1.21.5
+[17:44:59] [main/INFO] - polymer-registry-sync-manipulator: 0.12.1+1.21.5-rc2
+[17:44:59] [main/INFO] - pridemoths: 1.9.4+1.21.5
+[17:44:59] [main/INFO] - promenade: 5.1.0
+[17:44:59] [main/INFO] - puzzleslib: 21.5.12
+[17:44:59] [main/INFO] - resourcefullib: 3.5.0
+[17:44:59] [main/INFO] - roughlyenoughitems: 19.0.809
+[17:44:59] [main/INFO] - scalablelux: 0.1.3.1+fabric.ce1e005
+[17:44:59] [main/INFO] - servercore: 1.5.12+1.21.5
+[17:44:59] [main/INFO] - skeletonaifix: 21.5.0
+[17:44:59] [main/INFO] - space_arim_dazzleconf_dazzleconf-core: 1.3.0-M2
+[17:44:59] [main/INFO] - space_arim_dazzleconf_dazzleconf-ext-snakeyaml: 1.3.0-M2
+[17:44:59] [main/INFO] - spark: 1.10.138
+[17:44:59] [main/INFO] - the_afterdark: 1.0.3.1
+[17:44:59] [main/INFO] - tinyskeletons: 21.5.1
+[17:44:59] [main/INFO] - tool_trims: 2.3.3
+[17:44:59] [main/INFO] - trade_cycling: 1.21.5-1.0.18
+[17:44:59] [main/INFO] - tradingpost: 21.5.0
+[17:44:59] [main/INFO] - travelersbackpack: 10.5.3
+[17:44:59] [main/INFO] - tt20: 0.7.1
+[17:44:59] [main/INFO] - variantsandventures: 1.0.19
+[17:44:59] [main/INFO] - vcinteraction: 1.21.5-1.0.8
+[17:44:59] [main/INFO] - vmp: 0.2.0+beta.7.198+1.21.5
+[17:44:59] [main/INFO] - voicechat: 1.21.5-2.6.3
+[17:44:59] [main/INFO] - voicechat_api: 2.6.0
+[17:44:59] [main/INFO] - witherswrath: 1.14.1
+[17:44:59] [main/INFO] - yet_another_config_lib_v3: 3.7.1+1.21.5-fabric
+[17:44:59] [main/INFO] ========================================
+[17:44:59] [main/INFO] [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REICommonPlugin
+[17:44:59] [main/INFO] [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REICommonPlugin
+[17:44:59] [main/INFO] [REI] Registered plugin provider FabricFluidAPISupportPlugin for REICommonPlugin
+[17:45:03] [main/DEBUG] [REI] Processed 136 tags in 4.311 ms for minecraft:entity_type
+[17:45:03] [main/DEBUG] [REI] Processed 566 tags in 5.606 ms for minecraft:block
+[17:45:04] [main/DEBUG] [REI] Processed 5 tags in 97.95 μs for minecraft:game_event
+[17:45:04] [main/DEBUG] [REI] Processed 5 tags in 53.52 μs for minecraft:point_of_interest_type
+[17:45:04] [main/DEBUG] [REI] Processed 8 tags in 24.60 μs for minecraft:fluid
+[17:45:04] [main/DEBUG] [REI] Processed 781 tags in 4.055 ms for minecraft:item

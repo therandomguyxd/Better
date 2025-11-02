@@ -1,0 +1,105 @@
+{
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2025-11-02 13:07:29 -0400"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/store_deaths_initial": {
+    "criteria": {
+      "s": "2025-11-02 13:07:29 -0400"
+    },
+    "done": true
+  },
+  "jbt.main:recipes": {
+    "criteria": {
+      "requirement": "2025-11-02 13:07:29 -0400"
+    },
+    "done": true
+  },
+  "imalittlhigh:horse_swim": {
+    "criteria": {
+      "1": "2025-11-02 13:07:29 -0400"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/advancement_legend": {
+    "criteria": {
+      "bacap_root": "2025-11-02 13:07:43 -0400"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-11-02 13:07:29 -0400"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/end_teleport": {
+    "criteria": {
+      "s3": "2025-11-02 13:07:29 -0400"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/root": {
+    "criteria": {
+      "location": "2025-11-02 13:07:38 -0400"
+    },
+    "done": true
+  },
+  "global:notblue": {
+    "criteria": {
+      "requirement": "2025-11-02 13:07:29 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:graves": {
+    "criteria": {
+      "tick": "2025-11-02 13:07:29 -0400"
+    },
+    "done": true
+  },
+  "global:leash_villager": {
+    "criteria": {
+      "trigger": "2025-11-02 13:07:29 -0400"
+    },
+    "done": true
+  },
+  "village_hero:about_village_hero_plus": {
+    "criteria": {
+      "requirement": "2025-11-02 13:07:29 -0400"
+    },
+    "done": true
+  },
+  "graves:check_death_markers_later_in_tick": {
+    "criteria": {
+      "tick": "2025-11-02 13:07:29 -0400"
+    },
+    "done": true
+  },
+  "imalittlhigh:root": {
+    "criteria": {
+      "1": "2025-11-02 13:07:29 -0400"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "requirement": "2025-11-02 13:07:29 -0400"
+    },
+    "done": true
+  },
+  "jbt.main:visible/root": {
+    "criteria": {
+      "tick": "2025-11-02 13:07:29 -0400"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/tick": {
+    "criteria": {
+      "s": "2025-11-02 13:07:29 -0400"
+    },
+    "done": true
+  },
+  "DataVersion": 4325
+}
